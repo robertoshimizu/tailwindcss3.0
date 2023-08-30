@@ -79,3 +79,6 @@ npx tailwindcss -i ./input.css -o ./output.css --watch
 
 ### References:
 - [Designing with Tailwind CSS](https://tailwindcss.com/course): [GETTING UP AND RUNNING](https://tailwindcss.com/course/setting-up-tailwind-and-postcss)
+
+### Figma File
+https://www.figma.com/file/SNUysoGLVJPm286sgXCEm2Ag/tailwind-course?type=design&node-id=0-1&mode=design
